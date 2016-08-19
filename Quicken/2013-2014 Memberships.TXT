@@ -1,0 +1,68 @@
+Membership dues:2013-2014
+
+5/1/2012 through 4/9/2013
+
+	Date	Account	Description	Memo	Category	Clr	Amount	
+								
+	3/22/2013	ORHA Checking	Deposit	Spence Mark/Pat	Membership dues:2013-2014	c	35.00	
+				Garley Cleon/Elain	Membership dues:2013-2014	c	35.00	
+				Works Thomas/Sharon	Membership dues:2013-2014	c	35.00	
+				Worthington Terry/Kelly	Membership dues:2013-2014	c	35.00	
+				Stewart Owen/Frances	Membership dues:2013-2014	c	35.00	
+				Ducommun Donald Trust	Membership dues:2013-2014	c	35.00	
+				Wilks Family Trust	Membership dues:2013-2014	c	35.00	
+				Danko Martin/Emily	Membership dues:2013-2014	c	35.00	
+				Doty Donald/Jean	Membership dues:2013-2014	c	35.00	
+				Halagan Gregory/Roberta	Membership dues:2013-2014	c	35.00	
+				Miklowcic Henry/Debra	Membership dues:2013-2014	c	35.00	
+				Gumm Lisa	Membership dues:2013-2014	c	35.00	
+				Schreir Phillip/Carol Ann	Membership dues:2013-2014	c	35.00	
+				Burke Thomas/Sutton Barbara	Membership dues:2013-2014	c	35.00	
+				Gatti Hank/Jody	Membership dues:2013-2014	c	35.00	
+				Roberts Robert/Meadows Gayne	Membership dues:2013-2014	c	35.00	
+				Bauer Manfred/Marion	Membership dues:2013-2014	c	35.00	
+				McCormick Family Trust	Membership dues:2013-2014	c	35.00	
+				Rentscher Joseph/Janet	Membership dues:2013-2014	c	35.00	
+				Newman Martha	Membership dues:2013-2014	c	35.00	
+				Fisher Kevin/Stephanie	Membership dues:2013-2014	c	35.00	
+				Higdon William/Doreen	Membership dues:2013-2014	c	35.00	
+	3/26/2013	ORHA Checking	Deposit	Tzoucalis William/ Dorne	Membership dues:2013-2014	c	35.00	
+				Christman David/Suzanne	Membership dues:2013-2014	c	35.00	
+				Slaughter Robert/Melinda	Membership dues:2013-2014	c	35.00	
+				Hanlon Richard/ Debra	Membership dues:2013-2014	c	35.00	
+				Sahr Kent/Lucy	Membership dues:2013-2014	c	35.00	
+				Kline John/Carol	Membership dues:2013-2014	c	35.00	
+				Mousaw Charles/Valarie	Membership dues:2013-2014	c	35.00	
+				Pratten Glen/Rose	Membership dues:2013-2014	c	35.00	
+				Marshall Alan/Kathy	Membership dues:2013-2014	c	35.00	
+				Saathoff	Membership dues:2013-2014	c	35.00	
+	4/8/2013	ORHA Checking	Deposit	Diaz, Julio/ Mangialardi Charlene	Membership dues:2013-2014		35.00	
+				Rueck, William	Membership dues:2013-2014		35.00	
+				Schram, Daryl/ Margaret	Membership dues:2013-2014		35.00	
+				Altomrare, Glen/ Paula	Membership dues:2013-2014		35.00	
+				Rowat, Thom/ Karen	Membership dues:2013-2014		35.00	
+				Sakelakos, Georgiann	Membership dues:2013-2014		35.00	
+				Jonas, Steven/ Rebecca	Membership dues:2013-2014		35.00	
+				Terborg, John/ Glyen	Membership dues:2013-2014		35.00	
+				Watson, Mary/ Ostram, Karen	Membership dues:2013-2014		35.00	
+				Duink, Torrey/ Donna	Membership dues:2013-2014		35.00	
+				Fields, Eugene/ Jordan-Fiels Jeffrie	Membership dues:2013-2014		35.00	
+				Newsome, Michael/ Patricia	Membership dues:2013-2014		35.00	
+				Samuelsen, Patricia	Membership dues:2013-2014		35.00	
+				Martin, Kenneth/ Catherine	Membership dues:2013-2014		35.00	
+				Hooker, Kenneth/ Ruth	Membership dues:2013-2014		35.00	
+				Mallon, Barbara	Membership dues:2013-2014		35.00	
+				Sparks, Wayne/ Beverley	Membership dues:2013-2014		35.00	
+				McClendon, Evelyn	Membership dues:2013-2014		35.00	
+				MCCullough, Paul/ Sharon	Membership dues:2013-2014		35.00	
+				Hendrickson, Ronald/ Claudia	Membership dues:2013-2014		35.00	
+				Pack, Franklin/ Toni	Membership dues:2013-2014		35.00	
+				Johnson, Ralph/ Kim	Membership dues:2013-2014		35.00	
+	9/14/2012	PayPal Account myorha@myorha.org	Payment Martha W Knox	pre pay for next year	Membership dues:2013-2014	c	34.61	
+	5/1/2012 - 4/9/2013						1,924.61	
+								
+	TOTAL INFLOWS						1,924.61	
+								
+	TOTAL OUTFLOWS						0.00	
+								
+	NET TOTAL						1,924.61	

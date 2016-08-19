@@ -1,0 +1,73 @@
+Recorded Deposits 2012 2013 - YTD
+
+1/1/2012 through 4/10/2012
+
+	Date	Account	Num	Description	Memo	Category	Tag	Clr	Amount	
+										
+	3/26/2012	ORHA Checking	DEP         S	Memberships	Wilks, William/carolyn	Membership dues:2012-2013		c	35.00	
+					Terborg, John/glyen	Membership dues:2012-2013		c	35.00	
+					Spence, Mark/Patricia	Membership dues:2012-2013		c	35.00	
+					Marshall, Alan/kathy	Membership dues:2012-2013		c	35.00	
+					Grosse, Allen	Membership dues:2012-2013		c	35.00	
+					Hendrickson, Ronald/claudia	Membership dues:2012-2013		c	35.00	
+					Schram, Daryl/margaret	Membership dues:2012-2013		c	35.00	
+					Cook, Rod	Membership dues:2012-2013		c	35.00	
+					Knox, Martha	Membership dues:2012-2013		c	35.00	
+					Doty, Donald/jean	Membership dues:2012-2013		c	35.00	
+					Pack, Franklin/toni	Membership dues:2012-2013		c	35.00	
+	4/3/2012	ORHA Checking	DEP         S	Memberships	Brescia, Michael/Evelyn	Membership dues:2012-2013		c	35.00	
+					Burke, Thomas	Membership dues:2012-2013		c	35.00	
+					Carney, Susan	Membership dues:2012-2013		c	35.00	
+					Chamberlin, ronand/bonny	Membership dues:2012-2013		c	35.00	
+					Christman, suzanne/david	Membership dues:2012-2013		c	35.00	
+					Coyne, Viki	Membership dues:2012-2013		c	35.00	
+					Donaldson, judy	Membership dues:2012-2013		c	35.00	
+					Fisher, Stephanie/Kevin	Membership dues:2012-2013		c	35.00	
+					Franz, Kaiser & Evelyn McClendon	Membership dues:2012-2013		c	35.00	
+					Garley, Elaine/Bruce	Membership dues:2012-2013		c	35.00	
+	4/6/2012	ORHA Checking	DEP         S	Memberships	Vorse, Lanny / Carolyn	Membership dues:2012-2013		c	35.00	
+					Agett, Babette Smith	Membership dues:2012-2013		c	35.00	
+					Sahr, Kent / Lucy	Membership dues:2012-2013		c	35.00	
+					Martin, Kenneth / Catherine	Membership dues:2012-2013		c	35.00	
+					Stewart, Owen / Frances	Membership dues:2012-2013		c	35.00	
+					Schreier, Phillip / Carol	Membership dues:2012-2013		c	35.00	
+					Rowat, Thomas / Karen	Membership dues:2012-2013		c	35.00	
+					Rentscher, Joseph / Janet	Membership dues:2012-2013		c	35.00	
+					Pratten, Glen / Rose	Membership dues:2012-2013		c	35.00	
+					Piscitelli, George	Membership dues:2012-2013		c	35.00	
+					Newsome, Michael / Patricia	Membership dues:2012-2013		c	35.00	
+					Moore, Timothy / Crystal	Membership dues:2012-2013		c	35.00	
+					Miklowcic, Louis / Debra	Membership dues:2012-2013		c	35.00	
+					McCullough, Paul / Sharon	Membership dues:2012-2013		c	35.00	
+					McCormick, John / Sandra	Membership dues:2012-2013		c	35.00	
+					Lane, Tom / Christine	Membership dues:2012-2013		c	35.00	
+					Kline, John / Carol	Membership dues:2012-2013		c	35.00	
+					Hanlon, Richard / Debra	Membership dues:2012-2013		c	35.00	
+					Johnson, Elizabeth / Rodney	Membership dues:2012-2013		c	35.00	
+					Gumm, Lisa	Membership dues:2012-2013		c	35.00	
+					Danko, Martin / Emily	Membership dues:2012-2013		c	35.00	
+	4/6/2012	ORHA Checking	DEP         S	Memberships	Gatti, Hank / Jody	Membership dues:2012-2013		c	35.00	
+					McKinney, Beverly / T	Membership dues:2012-2013		c	35.00	
+					Siebert, Stanlye / Susan	Membership dues:2012-2013		c	35.00	
+					Halagan, R.A. / G.J.	Membership dues:2012-2013		c	35.00	
+					Newman, Martha	Membership dues:2012-2013		c	35.00	
+					Works, Thomas / Sharon	Membership dues:2012-2013		c	35.00	
+					Wishard, Ivan / Cathy	Membership dues:2012-2013		c	35.00	
+					Wiksten, Dennis / Faith	Membership dues:2012-2013		c	35.00	
+					Udovich, Lorraine, Rudolph	Membership dues:2012-2013		c	35.00	
+					Watson, Mary	Membership dues:2012-2013		c	35.00	
+					Rosin, David / Julie	Membership dues:2012-2013		c	35.00	
+					Wargny, Catherine	Membership dues:2012-2013		c	35.00	
+	4/9/2012	ORHA Checking	DEP         S	Memberships	Fields, Eugene	Membership dues:2012-2013			35.00	
+					Parsons, Cheri / Dale	Membership dues:2012-2013			35.00	
+					Ducommun, Donald	Membership dues:2012-2013			35.00	
+					Van Bibber, Liliana	Membership dues:2012-2013			35.00	
+					Altomare, Paula / Glen	Membership dues:2012-2013			35.00	
+					Roberts, Robert / Gayne	Membership dues:2012-2013			35.00	
+	1/1/2012 - 4/10/2012								2,100.00	
+										
+	TOTAL INFLOWS								2,100.00	
+										
+	TOTAL OUTFLOWS								0.00	
+										
+	NET TOTAL								2,100.00	

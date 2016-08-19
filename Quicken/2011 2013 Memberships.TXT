@@ -1,0 +1,262 @@
+Income/Expense by Category 4/1/11 - 4/10/12								
+								
+1/1/2011 through 5/22/2012								
+								
+	Date	Description	Memo				Category	Amount
+								
+	3/20/2011	Ivan	/	Cathy	Wishard		Membership dues:2011-2012	20
+	3/20/2011	Owen	/	Frances	Stewart		Membership dues:2011-2012	20
+	3/20/2011	John	/	Glyen	Terborg		Membership dues:2011-2012	20
+	3/20/2011	Thomas	/	Paula	Soyke		Membership dues:2011-2012	20
+	3/20/2011	Roderick	/	Colleen	Voigt		Membership dues:2011-2012	20
+	3/20/2011	Dorne	/	William	Tzoucalis		Membership dues:2011-2012	20
+	3/20/2011	Mark	/	Patricia	Spence		Membership dues:2011-2012	20
+	3/22/2011	Mary	C		Watson		Membership dues:2011-2012	20
+	3/22/2011	Robert	A		Young		Membership dues:2011-2012	20
+	3/22/2011	William	/	Carolyn	Wilks		Membership dues:2011-2012	20
+	3/23/2011	Rodney	/	Patti	Terkeurst		Membership dues:2011-2012	20
+	3/23/2011	Lorraine	/	Rudolph	Udovich		Membership dues:2011-2012	20
+	3/30/2011	Liliana	Van		Bibber		Membership dues:2011-2012	20
+	3/30/2011	Richardo	/	Mercedes	Rios	Ubillus	Membership dues:2011-2012	20
+	3/30/2011	Marianne	H	Van	Sickle		Membership dues:2011-2012	20
+	3/30/2011	Richard	J		Wiley		Membership dues:2011-2012	20
+	4/1/2011	John	/	Carol	Kline		Membership dues:2011-2012	20
+	4/6/2011	Catherine	R		Wargny		Membership dues:2011-2012	20
+	4/6/2011	Estate	Of	Eugene	Sinigalliano		Membership dues:2011-2012	20
+	4/6/2011	Dennis	/	Faith	Wiksten		Membership dues:2011-2012	20
+	4/6/2011	Gary	/	Marta	Taylor		Membership dues:2011-2012	20
+	4/6/2011	Lanny	Jay	Carolyn	Vorse		Membership dues:2011-2012	20
+	4/6/2011	Babette	Smith		Agett		Membership dues:2011-2012	20
+	4/6/2011	Babette			Agett		Membership dues:2012-2013	20
+	4/8/2011	Douglas	/	Emma	Corbell		Membership dues:2011-2012	20
+	4/8/2011	Terry	/	Kelly	Worthington		Membership dues:2011-2012	20
+	4/8/2011	Teresa			Ward		Membership dues:2011-2012	20
+	4/8/2011	Tom		-	Skelly		Membership dues:2011-2012	20
+	4/12/2011	Daryl	/	Margaret	Schram		Membership dues:2011-2012	20
+	4/12/2011	Phillip	/	Carol	Schreier		Membership dues:2011-2012	20
+	4/12/2011	Donald	/	Jean	Doty		Membership dues:2011-2012	20
+	4/12/2011	Karen		(FL	Brown		Membership dues:2011-2012	20
+	4/12/2011	Rebecca	/	Steven	Jonas		Membership dues:2011-2012	20
+	4/12/2011	Joseph	/	Kathleen	Petrella		Membership dues:2011-2012	20
+	4/12/2011	Martha	W		Knox		Membership dues:2011-2012	20
+	4/12/2011	Eugene	Carol		Fields		Membership dues:2011-2012	20
+	4/12/2011	Alan	/	Kathy	Marshall		Membership dues:2011-2012	20
+	4/12/2011	Kenneth	/	Marie	Cerreta		Membership dues:2011-2012	20
+	4/12/2011	Elizabeth	/	Rodney	Johnson		Membership dues:2011-2012	20
+	4/12/2011	Clarice	Campanella/Debra	Henry	Miklowcic		Membership dues:2011-2012	20
+	4/12/2011	Kevin	/	Stephanie	Fisher		Membership dues:2011-2012	20
+	4/12/2011	Cheri	/	Dale	Parsons		Membership dues:2011-2012	20
+	4/12/2011	Timothy	/	Crystal	Moore		Membership dues:2011-2012	20
+	4/12/2011	V.	Lou/Alden	Daigle/	Daigle		Membership dues:2011-2012	20
+	4/12/2011	Aldo	/	Elizabeth	Boselli		Membership dues:2011-2012	20
+	4/12/2011	Robert	/	Elizabeth	Schadler		Membership dues:2011-2012	20
+	4/12/2011	Bill	/	Carol	Ritchey		Membership dues:2011-2012	20
+	4/12/2011	John	/	Linda	M	Schaber	Membership dues:2011-2012	20
+	4/12/2011	Eddie	R		Piscitelli		Membership dues:2011-2012	20
+	4/12/2011	Kaiser	Franz	/	Evelyn	McLendon	Membership dues:2011-2012	20
+	4/13/2011	Carrie	/	Shawn	Schroeder		Membership dues:2011-2012	20
+	4/13/2011	Wendell	/	Shellie	Creasy		Membership dues:2011-2012	20
+	4/13/2011	Joan	/	Terrance	Drachenberg		Membership dues:2011-2012	20
+	4/14/2011	Ronald	/	Bonny	Chamberlin		Membership dues:2011-2012	20
+	4/14/2011	Peter	/	An	Lehr		Membership dues:2011-2012	20
+	4/14/2011	Richard	/	Debra	Hanlon		Membership dues:2011-2012	20
+	4/14/2011	Jon	/	Sandra	McCormick		Membership dues:2011-2012	20
+	4/14/2011	Hank	/	Jody	Gatti		Membership dues:2011-2012	20
+	4/14/2011	Lisa	C		Gumm		Membership dues:2011-2012	20
+	4/14/2011	Rod	R		Cook		Membership dues:2011-2012	20
+	4/14/2011	Tom	/	Christine	Lane		Membership dues:2011-2012	20
+	4/14/2011	Jennifer	/	John	Aitken		Membership dues:2011-2012	20
+	4/22/2011	William	/	Dorothy	Geho		Membership dues:2011-2012	20
+	4/22/2011	Barbara			Mallon		Membership dues:2011-2012	20
+	4/22/2011	Mary	/	Larry	Huff		Membership dues:2011-2012	20
+	4/22/2011	Jesus			Lopez		Membership dues:2011-2012	20
+	4/22/2011	Merle	/	Cherise	Amundson		Membership dues:2011-2012	20
+	4/22/2011	Glen	/	Paula	Altomare		Membership dues:2011-2012	20
+	4/22/2011	Michael	/	Theresa	Benton		Membership dues:2011-2012	20
+	4/22/2011	Douglas	/	Julia	Lines		Membership dues:2011-2012	20
+	4/22/2011	Beverly			Lassor		Membership dues:2011-2012	20
+	4/22/2011	David	Allen		Radke		Membership dues:2011-2012	20
+	4/22/2011	Debora	/	Roger	Nemeth		Membership dues:2011-2012	20
+	4/22/2011	Michael	/	Patricia	Newsome		Membership dues:2011-2012	20
+	4/22/2011	Delores	/	David	Shaw		Membership dues:2011-2012	20
+	4/22/2011	Larry	/	Evelyn	Markham		Membership dues:2011-2012	20
+	4/22/2011	Steven	/	Lisa	Mabin		Membership dues:2011-2012	20
+	4/22/2011	Steven			Andrews		Membership dues:2011-2012	20
+	4/22/2011	Richard	/	Diane	Deren		Membership dues:2011-2012	20
+	4/22/2011	Torrey	/	Donna	Duink		Membership dues:2011-2012	20
+	4/22/2011	Sharon	/	Chester	Blalock		Membership dues:2011-2012	20
+	4/22/2011	Alice			Liebl		Membership dues:2011-2012	20
+	4/22/2011	Charles	/	Valierie	Mousaw		Membership dues:2011-2012	20
+	4/22/2011	Kent	/	Lucy	Sahr		Membership dues:2011-2012	20
+	4/22/2011	Paul	/	Sharon	Mc	Cullough	Membership dues:2011-2012	20
+	4/22/2011	Robert	/	Gayne	Roberts		Membership dues:2011-2012	20
+	4/22/2011	Connie	/	Connie	Perdue		Membership dues:2011-2012	20
+	4/22/2011	Frank	/	Vickie	Dina		Membership dues:2011-2012	20
+	4/22/2011	Martin	/	Emily	Danko		Membership dues:2011-2012	20
+	4/22/2011	John	/	Maria	Obara		Membership dues:2011-2012	20
+	4/25/2011	Joe	M		Crowell		Membership dues:2011-2012	20
+	4/25/2011	William	T		Rueck		Membership dues:2011-2012	20
+	4/25/2011	Franklin	/	Toni	Pack		Membership dues:2011-2012	20
+	4/26/2011	Stanley	/	Susan	Seibert		Membership dues:2011-2012	20
+	4/26/2011	Steven	/	Tracy	Jo	Barber	Membership dues:2011-2012	20
+	4/26/2011	Julie	/	David	Rosin		Membership dues:2011-2012	20
+	4/26/2011	Julio	Diaz	Charlene	Diaz / Magialardi	Magialardi	Membership dues:2011-2012	20
+	4/26/2011	Michael	/	Evelyn	Brescia		Membership dues:2011-2012	20
+	4/26/2011	Richard	/	Eleanor	Hammond		Membership dues:2011-2012	20
+	4/26/2011	Kenneth	/	Ruth	Hooker		Membership dues:2011-2012	20
+	4/26/2011	Carmen	/	Wallace	McKinley		Membership dues:2011-2012	20
+	4/26/2011	Glenn	/	Rose	Pratten		Membership dues:2011-2012	20
+	4/26/2011	Scott	/	Renee	Simpson		Membership dues:2011-2012	20
+	4/26/2011	Cynthia			Wintersgill		Membership dues:2011-2012	20
+	4/26/2011	Susan	/	Jeffery	Fontaine		Membership dues:2011-2012	20
+	4/27/2011	Gregory	/	Roberta	Halagan		Membership dues:2011-2012	20
+	4/27/2011	Donald	/	Jean	Van	Voorhis	Membership dues:2011-2012	20
+	4/27/2011	William	/	Rose	Verheyen		Membership dues:2011-2012	20
+	4/27/2011	Dorothy			Willis		Membership dues:2011-2012	20
+	4/28/2011	Jennifer	/	Robert	Kalo		Membership dues:2011-2012	20
+	4/28/2011	Georgiann			Sakelakos		Membership dues:2011-2012	20
+	4/28/2011	Susan			Carney		Membership dues:2011-2012	20
+	4/28/2011	Richard	/	Mary	Saathoff		Membership dues:2011-2012	20
+	5/4/2011	DEPOSIT	Mike		Palermo		Membership dues:2011-2012	20
+			Joseph		Rentscher		Membership dues:2011-2012	20
+			Thomas		rowat		Membership dues:2011-2012	20
+			donna 		herbert		Membership dues:2011-2012	20
+			urmila 		parikh		Membership dues:2011-2012	20
+			sebastian 		penna		Membership dues:2011-2012	20
+			denise 		fialkosky		Membership dues:2011-2012	20
+	5/17/2011	Memberships	Andrew / Pauline		Micklos		Membership dues:2011-2012	20
+			L M 		McCarthy		Membership dues:2011-2012	20
+			Kenneth E 		Martin		Membership dues:2011-2012	20
+			Blanca		Rodriguez		Membership dues:2011-2012	20
+			John / Kathleen		 Radazzo		Membership dues:2011-2012	20
+			David / Carolyn		Wischmann		Membership dues:2011-2012	20
+	5/28/2011	Memberships	Waltraut		Buchkowsky		Membership dues:2011-2012	20
+			Kelly		Kernaghan		Membership dues:2011-2012	20
+	6/24/2011	Memberships	Michael / Denise		Jurgensen		Membership dues:2011-2012	20
+			Fred / Bety		Snell		Membership dues:2011-2012	20
+			Suzanne/  Keith		Cuspilich		Membership dues:2011-2012	20
+	7/6/2011	Memberships	Gerald Ray / Virginia Lee		Viano		Membership dues:2011-2012	20
+			Ronald / Claudia		Hendrickson		Membership dues:2011-2012	20
+	8/26/2011	Memberships	Frank / Ann Marie		Oliveto		Membership dues:2011-2012	20
+			Karen / Gary		Amundson		Membership dues:2011-2012	20
+	3/20/2011	Payment William Higdon	William 		Higdon		Membership dues:2011-2012	20
+	4/29/2011	Payment Charla Augsdoerfer	 Charla 		 Augsdoerfer		Membership dues:2011-2012	20
+	6/19/2011	Payment Jeanine Westover	 Jeanine 		 Westover		Membership dues:2011-2012	20
+	1/1/2011 - 12/31/2011							"2,760.00"
+								
+	1/24/2012	Memberships	"Connolly, Jeanne E"				Membership dues:2011-2012	20
+			"McCormick, John (cash)"				Membership dues:2011-2012	20
+	3/26/2012	Memberships	"Wilks, William/carolyn"				Membership dues:2012-2013	35
+			"Terborg, John/glyen"				Membership dues:2012-2013	35
+			"Spence, Mark/Patricia"				Membership dues:2012-2013	35
+			"Marshall, Alan/kathy"				Membership dues:2012-2013	35
+			"Grosse, Allen"				Membership dues:2012-2013	35
+			"Hendrickson, Ronald/claudia"				Membership dues:2012-2013	35
+			"Schram, Daryl/margaret"				Membership dues:2012-2013	35
+			"Cook, Rod"				Membership dues:2012-2013	35
+			"Knox, Martha"				Membership dues:2012-2013	35
+			"Doty, Donald/jean"				Membership dues:2012-2013	35
+			"Pack, Franklin/toni"				Membership dues:2012-2013	35
+	4/3/2012	Memberships	"Brescia, Michael/Evelyn"				Membership dues:2012-2013	35
+			"Burke, Thomas"				Membership dues:2012-2013	35
+			"Carney, Susan"				Membership dues:2012-2013	35
+			"Chamberlin, ronand/bonny"				Membership dues:2012-2013	35
+			"Christman, suzanne/david"				Membership dues:2012-2013	35
+			"Coyne, Viki"				Membership dues:2012-2013	35
+			"Donaldson, judy"				Membership dues:2012-2013	35
+			"Fisher, Stephanie/Kevin"				Membership dues:2012-2013	35
+			"Franz, Kaiser & Evelyn McClendon"				Membership dues:2012-2013	35
+			"Garley, Elaine/Bruce"				Membership dues:2012-2013	35
+	4/6/2012	Memberships	"Vorse, Lanny / Carolyn"				Membership dues:2012-2013	35
+			"Agett, Babette Smith"				Membership dues:2012-2013	35
+			"Sahr, Kent / Lucy"				Membership dues:2012-2013	35
+			"Martin, Kenneth / Catherine"				Membership dues:2012-2013	35
+			"Stewart, Owen / Frances"				Membership dues:2012-2013	35
+			"Schreier, Phillip / Carol"				Membership dues:2012-2013	35
+			"Rowat, Thomas / Karen"				Membership dues:2012-2013	35
+			"Rentscher, Joseph / Janet"				Membership dues:2012-2013	35
+			"Pratten, Glen / Rose"				Membership dues:2012-2013	35
+			"Piscitelli, George"				Membership dues:2012-2013	35
+			"Newsome, Michael / Patricia"				Membership dues:2012-2013	35
+			"Moore, Timothy / Crystal"				Membership dues:2012-2013	35
+			"Miklowcic, Louis / Debra"				Membership dues:2012-2013	35
+			"McCullough, Paul / Sharon"				Membership dues:2012-2013	35
+			"McCormick, John / Sandra"				Membership dues:2012-2013	35
+			"Lane, Tom / Christine"				Membership dues:2012-2013	35
+			"Kline, John / Carol"				Membership dues:2012-2013	35
+			"Hanlon, Richard / Debra"				Membership dues:2012-2013	35
+			"Johnson, Elizabeth / Rodney"				Membership dues:2012-2013	35
+			"Gumm, Lisa"				Membership dues:2012-2013	35
+			"Danko, Martin / Emily"				Membership dues:2012-2013	35
+	4/6/2012	Memberships	"Gatti, Hank / Jody"				Membership dues:2012-2013	35
+			"McKinney, Beverly / T"				Membership dues:2012-2013	35
+			"Siebert, Stanlye / Susan"				Membership dues:2012-2013	35
+			"Halagan, R.A. / G.J."				Membership dues:2012-2013	35
+			"Newman, Martha"				Membership dues:2012-2013	35
+			"Works, Thomas / Sharon"				Membership dues:2012-2013	35
+			"Wishard, Ivan / Cathy"				Membership dues:2012-2013	35
+			"Wiksten, Dennis / Faith"				Membership dues:2012-2013	35
+			"Udovich, Lorraine, Rudolph"				Membership dues:2012-2013	35
+			"Watson, Mary"				Membership dues:2012-2013	35
+			"Rosin, David / Julie"				Membership dues:2012-2013	35
+			"Wargny, Catherine"				Membership dues:2012-2013	35
+	4/9/2012	Memberships	"Fields, Eugene"				Membership dues:2012-2013	35
+			"Parsons, Cheri / Dale"				Membership dues:2012-2013	35
+			"Ducommun, Donald"				Membership dues:2012-2013	35
+			"Van Bibber, Liliana"				Membership dues:2012-2013	35
+			"Altomare, Paula / Glen"				Membership dues:2012-2013	35
+			"Roberts, Robert / Gayne"				Membership dues:2012-2013	35
+	4/11/2012	Memberships	"Skelly, Tom (cash)"				Membership dues:2012-2013	35
+			"Soyke, Thomas / Paula"				Membership dues:2012-2013	35
+			"Lines, Doug / Julia"				Membership dues:2012-2013	35
+			"Hooker, Ken / Ruth"				Membership dues:2012-2013	35
+			"Wischmann, David / Carolyn (Charlie)"				Membership dues:2012-2013	35
+			"Verheyen, William / Rose Ann"				Membership dues:2012-2013	35
+			"Higdon, Willaim / Doreen"				Membership dues:2012-2013	35
+			"Watkins, Joe / Linda"				Membership dues:2012-2013	35
+			"Sparks, Wayne / Beverly"				Membership dues:2012-2013	35
+			"Hammond, Richard / Eleanor"				Membership dues:2012-2013	35
+	4/15/2012	Memberships	"Obara, John / Marla"				Membership dues:2012-2013	35
+			"Saathoff, Richard / Mary / Kirk"				Membership dues:2012-2013	35
+			"Ubillus, Ricardo / Mercedes"				Membership dues:2012-2013	35
+			"Worthington, Terry / Kelly"				Membership dues:2012-2013	35
+			"Aitken, Jennifer/ John"				Membership dues:2012-2013	35
+			"Taylor, Gary / Marta"				Membership dues:2012-2013	35
+			"Williams, John / Kathleen"				Membership dues:2012-2013	35
+	4/18/2012	Memberships	"Benton, Michael / Theresa"				Membership dues:2012-2013	35
+			"Stamey, Michael / Patrice Ann"				Membership dues:2012-2013	35
+			"Young, Robert A"				Membership dues:2012-2013	35
+			"Nemeth, Debora / Roger"				Membership dues:2012-2013	35
+			"Barber, Steven  Tracy Jo"				Membership dues:2012-2013	35
+			"Rodriguez, Blanca V"				Membership dues:2012-2013	35
+	4/24/2012	Memberships	"Diaz, Julio / Charlene Mangialardi"				Membership dues:2012-2013	35
+			"Herbert, Donna / John"				Membership dues:2012-2013	35
+			"Slaughter, Robert  Melinda"				Membership dues:2012-2013	35
+			"Shaw, Delores / David"				Membership dues:2012-2013	35
+			"Geho, William / Dorothy"				Membership dues:2012-2013	35
+			"Micklos, Andrew / Pauline"				Membership dues:2012-2013	35
+			"Radke, David Allen"				Membership dues:2012-2013	35
+			"Wintersgill, Cynthia / Robert"				Membership dues:2012-2013	35
+	4/27/2012	Memberships	"Wood, JP / LM"				Membership dues:2012-2013	35
+			"Mabin, Steven / Lisa"				Membership dues:2012-2013	35
+	5/13/2012	Memberships	"Jurgensen, Michael / Denise"				Membership dues:2012-2013	35
+			"Kernaghan, Kelly / Andrew"				Membership dues:2012-2013	35
+			"McKinley, Carmen / Wallace"				Membership dues:2012-2013	35
+			"Oliveto, Frank / Ann Marie"				Membership dues:2012-2013	35
+			"Failkosky, Denise"				Membership dues:2012-2013	35
+			"Fitzgerald, Thomas / Maureen"				Membership dues:2012-2013	35
+			"Deren, Richard / Daine"				Membership dues:2012-2013	35
+			"Corbell, Douglas / Emma"				Membership dues:2012-2013	35
+			"Fontaine, Jeffery / Susan"				Membership dues:2012-2013	35
+	5/22/2012	Memberships	"Jonas, Steven / Rebecca"				Membership dues:2012-2013	35
+			"Mallon, Barbara"				Membership dues:2012-2013	35
+			"Mousaw, Charles / Valerie"				Membership dues:2012-2013	35
+	1/1/2012 - 5/22/2012							"3,715.00"
+								
+	OVERALL TOTAL							"6,475.00"
+								
+	TOTAL INFLOWS							"6,475.00"
+								
+	TOTAL OUTFLOWS							0
+								
+	NET TOTAL							"6,475.00"
