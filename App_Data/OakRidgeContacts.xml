@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Contains the contacts, names and titles for the Executives and Board members of the
+organization.  Utilize these values via ASP data binding such that future changes to the
+organization will only need to be changed here and all other references will automatically 
+reflect the change-->
+<OakRidgeContacts>
+  <executives>
+    <executive name ="" title="President 727-375-9239" email="mailto:president@myorha.org" phone="727-375-9239">Alex Sarkissian</executive>
+    <executive name ="" title="Vice President 609-685-6082" email="mailto:VicePresident@myorha.org" phone="609-685-6082" >Linda Grosse</executive>
+    <executive name ="" title="Treasurer 516-547-8174" email="mailto:treasurer@myorha.org" phone="516-547-8174" >Annette Giuliani</executive>
+    <executive name ="" title="Secretary 978-821-9074" email="mailto:Secretary@myorha.org" phone="978-821-9074" >Danielle Phillippi</executive>
+  </executives>
+  <boardofdirectors>
+    <bod name=""  title="Board Member" email="mailto:Mike.Emmanual@myorha.org" phone="undisclosed" >Mike Emmanual</bod>
+    <bod name=""  title="Board Member" email="mailto:Wally.Mckinley@myorha.org" phone="undisclosed">Wally McKinley</bod>
+    <bod name=""  title="Board Member" email="mailto:John.Williams@myorha.org" phone="undisclosed">John Williams</bod>
+    <bod name=""  title="Board Member" email="mailto:Charly.Wichman@myorha.org" phone="undisclosed">Charly Wischman</bod>
+  </boardofdirectors>
+  
+<Commititees>
+    <restrictionsCommittee email="mailto:oakridgerestrictonscommittee@myorha.org">
+      <committeeMember name=""  title="Committee Chair" email="mailto:oakridgerestricitonscommittee@myorha.org" phone="">Doug Lines</committeeMember>
+      <committeeMember name=""  title="Committee member" email="" phone="">Martin Danko</committeeMember>
+      <committeeMember name=""  title="Committee member" email="" phone="">Julie Holt</committeeMember>
+      <committeeMember name=""  title="Committee member" email="" phone="">Kevin Wright</committeeMember>
+      <committeeMember name=""  title="Committee member" email="" phone="">Chuck Howleg</committeeMember>
+    </restrictionsCommittee>
+
+    <auditCommittee email="mailto:oakridgeauditcommittee@myorha.org">
+        <committeeMember name=""  title="Committee member" email="" phone="">Need Volunteer</committeeMember>
+    </auditCommittee>
+
+    <nominationsElections email="mailto:oakridgeNominationsElectionscommittee@myorha.org">
+        <committeeMember name=""  title="Committee member" email="" phone="">Need Volunteer</committeeMember>
+    </nominationsElections>
+
+    <EstoppleInformation email="mailto:president@myorha.org">
+      <estoppleRequests title="Estopple Handling" name="Danielle" email ="mailto:Secretary@myorha.org?subject=Estopple request" >Request Estopple for a specific Oak Ridge property</estoppleRequests>
+      <estoppleInfo title="Estopple Questions" name="Alex" email="mailto:President@myorha.org?subject=Estopple question" >Inquire about new or existing Estopple info</estoppleInfo>
+    </EstoppleInformation>
+</Commititees>
+
+</OakRidgeContacts>
